@@ -61,12 +61,6 @@ def main(instancia):
     resultado = [instancia, funcao6]  # Lista de tipo misto com valores dos resultados
     ds.salvaResultado(resultado)  # Salva resultado em arquivo
 
-
-
-
-
-
-
 '''Chamada a função main()
    Argumento Entrada: [1] dataset'''
 if __name__ == '__main__':
